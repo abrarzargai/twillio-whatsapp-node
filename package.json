@@ -1,0 +1,17 @@
+{
+  "name": "twillio-whatsapp-node",
+  "version": "1.0.0",
+  "description": "This is a description",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "xargai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "twilio": "^3.77.3"
+  }
+}
