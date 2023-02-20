@@ -22,7 +22,7 @@ $ npm install
 
 ```bash
 # App configuration. 
-$ create .env file in main folder and addd all the required variable mentioned in '.env.dist' file
+$ create .env file in main folder and addd all the required variable mentioned in 'dist.env' file
 ```
 
 ## Build
